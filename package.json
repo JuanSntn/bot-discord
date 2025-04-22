@@ -20,6 +20,6 @@
   "ytdl-core-discord": "github:amishshah/ytdl-core-discord"
   },
   "scripts": {
-    "start": "node bot.js"
+    "start": "node discord.js"
   }
   }
